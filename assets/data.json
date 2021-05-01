@@ -1,0 +1,283 @@
+[
+    {
+        "name": "Spicy Peanut Tofu Bowls with Quick Pickled Veggies",
+        "image": "assets/dishes/1.png",
+        "ingredients": [
+            {
+                "name": "",
+                "parts": [
+                    {
+                        "quantity": "2",
+                        "unit": "pieces",
+                        "type": "tofu"
+                    },
+                    {
+                        "quantity": "0.33",
+                        "unit": "tablespoon",
+                        "type": "pure maple syrup"
+                    },
+                    {
+                        "quantity": "0.33",
+                        "unit": "tablespoon",
+                        "type": "sesame oil"
+                    },
+                    {
+                        "quantity": "0.33",
+                        "unit": "tablespoon",
+                        "type": "rice wine vinegar"
+                    },
+                    {
+                        "quantity": "0.33",
+                        "unit": "tablespoon",
+                        "type": "chili garlic sauce"
+                    },
+                    {
+                        "quantity": "0.33",
+                        "unit": "tablespoon",
+                        "type": "soy sauce"
+                    },
+                    {
+                        "quantity": "0.17",
+                        "unit": "tablespoon",
+                        "type": "garlic powder"
+                    },
+                    {
+                        "quantity": "0.17",
+                        "unit": "tablespoon",
+                        "type": "onion powder"
+                    },
+                    {
+                        "quantity": "0.33",
+                        "unit": "tablespoon",
+                        "type": "cornstarch"
+                    }
+                ]
+            },
+            {
+                "name": "For the quick pickled red onions",
+                "parts": [
+                    {
+                        "quantity": "0.17",
+                        "unit": "cup",
+                        "type": "apple cider vinegar"
+                    },
+                    {
+                        "quantity": "0.67",
+                        "unit": "tablespoons",
+                        "type": "honey"
+                    },
+                    {
+                        "quantity": "0.17",
+                        "unit": "teaspoon",
+                        "type": "sail"
+                    }
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "name": "For the tofu",
+                "steps": [
+                    "Preheat oven to 425℉. Line a large rimmed baking sheet with parchment paper. Place tofu cubes on the baking sheet and add the sesame oil, maple syrup, rice wine vinegar, chili garlic sauce, soy sauce, garlic powder, onion powder, and soy sauce until evenly coated. Sprinkle on the cornstarch and toss again to coat. Bake for 40-45 minutes, tossing halfway through baking, until golden and crispy on the edges. After baking, toss in 2 tablespoons of the peanut sauce."
+                ]
+            },
+            {
+                "name": "For the quick pickled red onions",
+                "steps": [
+                    "In a medium bowl, combine the red onion, apple cider vinegar, honey, and salt. Let sit for 20-30 minutes while tofu is baking. That's it!"
+                ]
+            },
+            {
+                "name": "For the quick pickled cucumbers",
+                "steps": [
+                    "In a medium bowl, combine the cucumber, apple cider vinegar, honey, and salt. Let sit for 20-30 minutes while tofu is baking. That's it!"
+                ]
+            },
+            {
+                "name": "For the peanut sauce",
+                "steps": [
+                    "In a medium bowl, whisk together the peanut butter, lime juice, rice wine vinegar, soy sauce, garlic, ginger, sriracha, honey, sesame oil, and chili garlic sauce until smooth. Add the hot water and whisk together until smooth and creamy. If you like a thinner sauce, add more hot water a tablespoon at a time until desired consistency is reached."
+                ]
+            },
+            {
+                "name": "For the crispy shallots",
+                "steps": [
+                    "Heat about an inch of vegetable or canola oil in a small saucepan over medium-high heat. You will know when oil is ready when you stick the end of a wooden spoon in the oil and tiny bubbles form around it. Fry the shallots in batches, for 2-3 minutes, or until golden brown and crispy. Season with salt while they are hot. Let drain on paper towels. Do this in 2-3 batches to avoid overcrowding."
+                ]
+            },
+            {
+                "name": "Serve",
+                "steps": [
+                    "Place tofu over a bed of rice. Top with a generous drizzle of peanut sauce and a handful of pickled onions and cucumbers. Sprinkle with chopped peanuts, scallions, cilantro, sesame seeds, and a handful of crispy shallots. Devour!"
+                ]
+            }
+        ],
+        "servings": 1,
+        "prep_time": 25,
+        "cook_time": 45
+    },
+    {
+        "name": "Vegan Cabbage Rolls",
+        "image": "assets/dishes/2.png",
+        "ingredients": [
+            {
+                "name": "Cabbage Rolls",
+                "parts": [
+                    {
+                        "quantity": "1/4",
+                        "unit": "cup",
+                        "type": "dry sushi rice or any short-grain rice"
+                    },
+                    {
+                        "quantity": "10 - 12",
+                        "unit": "leaves",
+                        "type": "napa cabbage"
+                    },
+                    {
+                        "quantity": "1",
+                        "unit": "tbsp",
+                        "type": "oil"
+                    },
+                    {
+                        "quantity": "1",
+                        "unit": "diced",
+                        "type": "medium onion"
+                    },
+                    {
+                        "quantity": "3/4",
+                        "unit": "tbsp",
+                        "type": "ginger minced"
+                    },
+                    {
+                        "quantity": "3",
+                        "unit": "",
+                        "type": "garlic cloves diced"
+                    },
+                    {
+                        "quantity": "120",
+                        "unit": "gram",
+                        "type": "carrot diced"
+                    },
+                    {
+                        "quantity": "70",
+                        "unit": "gram",
+                        "type": "peppers diced"
+                    },
+                    {
+                        "quantity": "8",
+                        "unit": "",
+                        "type": "white button mushrooms diced"
+                    },
+                    {
+                        "quantity": "2",
+                        "unit": "tbsp",
+                        "type": "garlic cloves"
+                    },
+                    {
+                        "quantity": "2",
+                        "unit": "tbsp",
+                        "type": "tamari or coconut aminos"
+                    },
+                    {
+                        "quantity": "1/2",
+                        "unit": "tbsp",
+                        "type": "each of sea salt, ground pepper, onion powder"
+                    },
+                    {
+                        "quantity": "1/4",
+                        "unit": "tbsp",
+                        "type": "red pepper flakes or to taste"
+                    }
+                ]
+            },
+            {
+                "name": "Sauce",
+                "parts": [
+                    {
+                        "quantity": "1",
+                        "unit": "tbsp",
+                        "type": "oil ( sesame oil )"
+                    },
+                    {
+                        "quantity": "1/2",
+                        "unit": "tbsp",
+                        "type": "ginger minced"
+                    },
+                    {
+                        "quantity": "2",
+                        "unit": "",
+                        "type": "garlic cloves minced"
+                    },
+                    {
+                        "quantity": "1/2",
+                        "unit": "tbsp",
+                        "type": "tamari or coconut aminos"
+                    },
+                    {
+                        "quantity": "1",
+                        "unit": "tbsp",
+                        "type": "rice vinegar"
+                    },
+                    {
+                        "quantity": "3/4",
+                        "unit": "tbsp",
+                        "type": "maple syrup"
+                    },
+                    {
+                        "quantity": "120",
+                        "unit": "ml",
+                        "type": "water"
+                    },
+                    {
+                        "quantity": "1/2",
+                        "unit": "tbsp",
+                        "type": "cornstarch"
+                    }
+                ]
+            }
+        ],
+        "instructions": [
+            {
+                "name":"Cook the rice",
+                "steps":[
+                    "Soak the sushi rice in a bowl with plenty of water for about 45-60 minutes, then drain. Cook it with the mentioned amount of water and some salt in a saucepan until tender, about 10-12 minutes."
+                ]
+            },
+            {
+                "name":"Cook the veggies",
+                "steps":[
+                    "Meanwhile, chop the veggies and prep the cabbage leaves. Bring a large pot with water to a boil, then add in 3-4 of the cabbage leaves and cook them for 2-3 minutes until softened. Place the cooked leaves into a bowl with cold water, then set aside. Do this with the remaining leaves.",
+                    "Heat 1/2 tbsp oil in a skillet, add the onion, ginger, garlic, carrot, peppers, and mushrooms. Sauté for 3-4 minutes, then add tamari, and all spices. Cook for a further 1-2 minutes."
+                ]
+            },
+            {
+                "name":"Assemble",
+                "steps":[
+                    "Once the rice is cooked, add it to the skillet and stir to combine. Turn off the heat and taste the mixture. Add more seasonings if needed.",
+                    "Place a cabbage leaf on a plate and put about 1 1/2 - 2 tablespoons of the rice mixture in the middle. Fold in the sides and the top over the filling and roll it up. Place it on a plate. Do this with the remaining leaves."
+                ]
+            },
+            {
+                "name":"Pan sear the rolls",
+                "steps":[
+                    "Heat 1/2 tbsp of oil in a skillet, and once hot add 5 of the cabbage rolls. Pan sear for a few minutes from both sides. The rolls should be golden brown."
+                ]
+            },
+            {
+                "name":"Make the sauce",
+                "steps":[
+                    "Heat oil in a saucepan, then add ginger, garlic, tamari, rice vinegar, maple syrup. Let it cook for about 1-2 minutes. Mix the water with cornstarch to make a slurry and pour it into the skillet. Add the spices and cook the sauce for a few more minutes until thickened."
+                ]
+            },
+            {
+                "name":"Serve",
+                "steps":[
+                    "Pour the sauce of the cabbage rolls and garnish with sesame seeds."
+                ]
+            }
+        ],
+        "servings": 1,
+        "cook_time": 30,
+        "prep_time": 45
+    }
+]
