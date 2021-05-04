@@ -1,10 +1,13 @@
 [
     {
+        "id": 1,
         "name": "Spicy Peanut Tofu Bowls with Quick Pickled Veggies",
+        "exp": 35,
         "image": "assets/dishes/1.png",
+        "description": "These Spicy Peanut Tofu Bowls with Quick Pickled Veggies are a super delicious, flavor-packed plant based meal! The tofu is baked and tossed in a spicy peanut sauce, then served over rice with quick pickled vegetables, crispy shallots, chopped peanuts, scallions, and cilantro. So much flavor!",
         "ingredients": [
             {
-                "name": "",
+                "name": "For the tofu",
                 "parts": [
                     {
                         "quantity": "2",
@@ -117,8 +120,11 @@
         "cook_time": 45
     },
     {
+        "id": 2,
         "name": "Vegan Cabbage Rolls",
+        "exp": 45,
         "image": "assets/dishes/2.png",
+        "description": "These Asian-inspired vegan cabbage rolls are made up of tender cabbage leaves, stuffed with a rice and veggie filling, and served alongside a Chinese brown garlic sauce. Plus, this recipe is super versatile, gluten-free, and naturally vegetarian and vegan!",
         "ingredients": [
             {
                 "name": "Cabbage Rolls",
@@ -238,40 +244,40 @@
         ],
         "instructions": [
             {
-                "name":"Cook the rice",
-                "steps":[
+                "name": "Cook the rice",
+                "steps": [
                     "Soak the sushi rice in a bowl with plenty of water for about 45-60 minutes, then drain. Cook it with the mentioned amount of water and some salt in a saucepan until tender, about 10-12 minutes."
                 ]
             },
             {
-                "name":"Cook the veggies",
-                "steps":[
+                "name": "Cook the veggies",
+                "steps": [
                     "Meanwhile, chop the veggies and prep the cabbage leaves. Bring a large pot with water to a boil, then add in 3-4 of the cabbage leaves and cook them for 2-3 minutes until softened. Place the cooked leaves into a bowl with cold water, then set aside. Do this with the remaining leaves.",
                     "Heat 1/2 tbsp oil in a skillet, add the onion, ginger, garlic, carrot, peppers, and mushrooms. Sauté for 3-4 minutes, then add tamari, and all spices. Cook for a further 1-2 minutes."
                 ]
             },
             {
-                "name":"Assemble",
-                "steps":[
+                "name": "Assemble",
+                "steps": [
                     "Once the rice is cooked, add it to the skillet and stir to combine. Turn off the heat and taste the mixture. Add more seasonings if needed.",
                     "Place a cabbage leaf on a plate and put about 1 1/2 - 2 tablespoons of the rice mixture in the middle. Fold in the sides and the top over the filling and roll it up. Place it on a plate. Do this with the remaining leaves."
                 ]
             },
             {
-                "name":"Pan sear the rolls",
-                "steps":[
+                "name": "Pan sear the rolls",
+                "steps": [
                     "Heat 1/2 tbsp of oil in a skillet, and once hot add 5 of the cabbage rolls. Pan sear for a few minutes from both sides. The rolls should be golden brown."
                 ]
             },
             {
-                "name":"Make the sauce",
-                "steps":[
+                "name": "Make the sauce",
+                "steps": [
                     "Heat oil in a saucepan, then add ginger, garlic, tamari, rice vinegar, maple syrup. Let it cook for about 1-2 minutes. Mix the water with cornstarch to make a slurry and pour it into the skillet. Add the spices and cook the sauce for a few more minutes until thickened."
                 ]
             },
             {
-                "name":"Serve",
-                "steps":[
+                "name": "Serve",
+                "steps": [
                     "Pour the sauce of the cabbage rolls and garnish with sesame seeds."
                 ]
             }

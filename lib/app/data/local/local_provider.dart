@@ -1,7 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/services.dart' show rootBundle;
-import 'package:flutter_food_quest_animation/app/data/models/recipe_model.dart';
+
+import '../models/recipe_model.dart';
 
 class LocalProvider {
   Future<List<dynamic>> loadData() async {

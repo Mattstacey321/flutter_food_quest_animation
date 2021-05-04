@@ -1,11 +1,14 @@
 import 'dart:convert';
 
-import 'package:flutter_food_quest_animation/app/data/models/ingredient_model.dart';
-import 'package:flutter_food_quest_animation/app/data/models/instructions_model.dart';
+import 'ingredient_model.dart';
+import 'instructions_model.dart';
 
 class RecipeModel {
+  int id;
   String name;
+  int exp;
   String image;
+  String description;
   List<IngredientModel> ingredients;
   List<InstructionModel> instructions;
   int servings;
@@ -14,8 +17,11 @@ class RecipeModel {
   int get totalTime => prepareTime + cookTime;
 
   RecipeModel({
+    required this.id,
     required this.name,
+    required this.exp,
     required this.image,
+    required this.description,
     required this.ingredients,
     required this.instructions,
     required this.servings,
@@ -24,8 +30,11 @@ class RecipeModel {
   });
 
   RecipeModel copyWith({
+    int? id,
     String? name,
+    int? exp,
     String? image,
+    String? description,
     List<IngredientModel>? ingredients,
     List<InstructionModel>? instructions,
     int? servings,
@@ -33,7 +42,10 @@ class RecipeModel {
     int? cookTime,
   }) {
     return RecipeModel(
+      id: id ?? this.id,
       name: name ?? this.name,
+      exp: exp ?? this.exp,
+      description: description ?? this.description,
       image: image ?? this.image,
       ingredients: ingredients ?? this.ingredients,
       instructions: instructions ?? this.instructions,
@@ -49,8 +61,11 @@ class RecipeModel {
 
   factory RecipeModel.fromMap(Map<String, dynamic> map) {
     return RecipeModel(
+      id: map['id'],
       name: map['name'],
+      exp: map['exp'],
       image: map['image'],
+      description: map['description'],
       ingredients:
           List<IngredientModel>.from(map['ingredients']?.map((x) => IngredientModel.fromMap(x))),
       instructions:

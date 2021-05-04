@@ -1,4 +1,4 @@
-import 'package:flutter_food_quest_animation/app/data/models/recipe_model.dart';
+import '../../../data/models/recipe_model.dart';
 import 'package:get/get.dart';
 
 import '../../../data/local/local_provider.dart';
@@ -6,6 +6,7 @@ import '../../../data/local/local_provider.dart';
 class HomeController extends GetxController with StateMixin<List<RecipeModel>> {
   LocalProvider localProvider = LocalProvider();
   var recipes = RxList<RecipeModel>();
+  var currentIndex = 0.obs;
 
   void readRecipe() async {
     final data = await localProvider.loadData();
